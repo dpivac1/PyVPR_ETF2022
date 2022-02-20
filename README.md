@@ -35,4 +35,4 @@ To delete plate number from the database, please follow next steps:
 2. In PyVPR_ETF2022/projects terminal run:
 	$ python3 tablice_out.py
 	
-This project was realized as part of Telecommunications Software Engineering course on Master's studies at University of Sarajevo, Faculty of Electrical Engineering, Department of Telecommunications in the 2021/2022. school year. Students that worked on this project are: Kemal Drnda, Merima Fehrić, Elma Kevilj, Tamara Markešić, Džana Pivač and Neira Dizdarević. 
+This project was realized as part of Telecommunications Software Engineering course on Master's studies at University of Sarajevo, Faculty of Electrical Engineering, Department of Telecommunications in the 2021/2022. school year. Students that worked on this project are: Kemal Drnda, Merima Fehrić, Elma Kevilj, Tamara Markešić, Džana Pivač and Neira Dizdarević, alongside supervisor professor doc.dr Darijo Raca. 
